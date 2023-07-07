@@ -1,2 +1,0 @@
-# KdvHesaplama
-Android KDV hesaplama
